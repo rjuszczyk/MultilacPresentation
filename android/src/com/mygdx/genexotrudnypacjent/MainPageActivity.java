@@ -29,7 +29,7 @@ public class MainPageActivity extends AppCompatActivity {
     void onNext2(View view) {
         mUserData.setQuiz_odp2("tak");
         finish();
-        BasePresentationActivity.start(this, R.layout.question2, mUserData);
+        BasePresentationActivity.start(this, R.layout.question3, mUserData);
     }
 
 
@@ -38,7 +38,7 @@ public class MainPageActivity extends AppCompatActivity {
         mUserData.setQuiz_odp3("tak");
 
         finish();
-        BasePresentationActivity.start(this, R.layout.question3, mUserData);
+        BasePresentationActivity.start(this, R.layout.question2, mUserData);
     }
 
 
