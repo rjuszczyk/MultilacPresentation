@@ -24,12 +24,12 @@
         "source": "C:\\Users\\Radek\\Documents\\Android\\MultilacPresentation\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Documents\\Android\\MultilacPresentation\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\regulamin.png",
-        "source": "C:\\Users\\Radek\\Documents\\Android\\MultilacPresentation\\android\\res\\drawable-mdpi\\regulamin.png"
-    },
-    {
         "merged": "C:\\Users\\Radek\\Documents\\Android\\MultilacPresentation\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
         "source": "C:\\Users\\Radek\\Documents\\Android\\MultilacPresentation\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Radek\\Documents\\Android\\MultilacPresentation\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\regulamin.png",
+        "source": "C:\\Users\\Radek\\Documents\\Android\\MultilacPresentation\\android\\res\\drawable-mdpi\\regulamin.png"
     },
     {
         "merged": "C:\\Users\\Radek\\Documents\\Android\\MultilacPresentation\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pyt1.png",
